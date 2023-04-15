@@ -34,9 +34,13 @@ Dataset link/: contains the link to the JSON file containing the dataset
               https://drive.google.com/file/d/11gFGDv03PIOBRrlp-ykVTNZGPcCVEGCp/view?usp=sharing
               
 codes/: contains the python notebooks  used for EDA and model building
+
 Reports/: contain the reports and explanation for the model
+
 Results/: contains the screenshots of the results of the codes
+
 Presentations/: contain the presentations prepared for the same
+
 README.md: this file
 
 Conclusion
