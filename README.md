@@ -1,4 +1,4 @@
-# CSE523-Machine-Learning-2022-Data-Dynamos-
+# CSE523-Machine-Learning-2022-Data-Dynamos
 
 Machine Learning Model for Predicting whether ordered item would be fit or not.
 
