@@ -8,7 +8,14 @@ Dataset
 
 The dataset used in this model contains details of orders of around 1,92,000 women. The dataset is provided in JSON format and includes the following  features:
 
-•	
+•	Fit
+• Bust Size
+• Body Type
+• Category
+• Height 
+• Size 
+• Age
+
 
 Exploratory Data Analysis (EDA)
 
