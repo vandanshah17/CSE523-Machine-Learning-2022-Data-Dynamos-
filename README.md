@@ -7,6 +7,7 @@ This repository contains a machine learning model that uses a dataset of details
 Dataset
 
 The dataset used in this model contains details of orders of around 1,92,000 women. The dataset is provided in JSON format and includes the following  features:
+
 •	
 
 Exploratory Data Analysis (EDA)
@@ -31,11 +32,14 @@ The repository is structured as follows:
 
 Dataset link/: contains the link to the JSON file containing the dataset
               https://drive.google.com/file/d/11gFGDv03PIOBRrlp-ykVTNZGPcCVEGCp/view?usp=sharing
+              
 codes/: contains the python notebooks  used for EDA and model building
 Reports/: contain the reports and explanation for the model
 Results/: contains the screenshots of the results of the codes
 Presentations/: contain the presentations prepared for the same
 README.md: this file
+
 Conclusion
+
 This machine learning model provides an accurate prediction of female body shape rating based on a set of input features. By using EDA, oversampling, and hyperparameter optimization techniques, the model can handle class imbalance and achieve high accuracy.
 
