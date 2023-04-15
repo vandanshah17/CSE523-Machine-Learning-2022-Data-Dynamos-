@@ -8,6 +8,7 @@ Dataset
 
 The dataset used in this model contains details of orders of around 1,92,000 women. The dataset is provided in JSON format and includes the following  features:
 •	
+
 Exploratory Data Analysis (EDA)
 
 Before building the machine learning model, the dataset is analyzed using EDA techniques to understand the distribution of the features and to identify any outliers or missing values. The EDA also includes visualizations of the dataset using histograms, scatter plots, correlation matrix and box plots.
